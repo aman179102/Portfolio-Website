@@ -24,7 +24,7 @@ persistence
 
 ## Live Demo 🌐
 
-Check out the hosted version: [Portfolio Live Demo](https://www.amanfolioo.netlify.app)
+Check out the hosted version: [Portfolio Live Demo](https://amanfolioo.netlify.app)
 
 
 
